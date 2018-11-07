@@ -1,6 +1,6 @@
 var isPalinDrome = function(){
 
-    var palin = prompt("Eneter in your string");
+    var palin = prompt("Enter in your string");
     //code here
 
 }
