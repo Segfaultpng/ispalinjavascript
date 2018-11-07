@@ -1,6 +1,7 @@
-var isPalinDrome = function(theString){
+var isPalinDrome = function(){
 
-//code here
+    var palin = prompt("Eneter in your string");
+    //code here
 
 }
 
