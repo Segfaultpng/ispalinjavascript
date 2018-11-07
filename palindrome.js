@@ -1,4 +1,4 @@
-var isPalinDrome = function(theString){
+var isPalinDrome = function(){
 
     var palin = prompt("Eneter in your string");
     palin = palin.toLocaleLowerCase();
